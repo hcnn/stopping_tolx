@@ -1,0 +1,9 @@
+{
+  "name": "stopping_tolx",
+  "version": "0.1.0",
+  "repo": "hcnn/stopping_tolx",
+  "description": "Check Changes in the Solution. Stop if all variables' absolute changes are below a certain threshold.",
+  "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization"],
+  "license": "MIT",
+  "src": ["stopping_tolx.c", "stopping_tolx.h"]
+}

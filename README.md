@@ -28,5 +28,5 @@ cd stopping_tolx
 make
 ```
 
-### Links
-* http://hcnn.de/docs/stopping_tolx
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)

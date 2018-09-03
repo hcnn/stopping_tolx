@@ -3,7 +3,8 @@
 
 #include <stdbool.h> //bool
 #include <math.h>  //fabs
+#include <stddef.h> //size_t
 
-bool stopping_tolx(double* , double* , int , double );
+bool stopping_tolx(const double* , const double* , size_t , double );
 
 #endif /* STOPPING_TOLX_H */
